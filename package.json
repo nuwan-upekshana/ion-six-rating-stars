@@ -67,9 +67,9 @@
   "module": "fesm2015/ion-rating-stars.mjs",
   "name": "ion-rating-stars",
   "peerDependencies": {
-    "@angular/common": "^15.0.0",
-    "@angular/core": "^15.0.0",
-    "@ionic/angular": "^6.4.1"
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0",
+    "@ionic/angular": "^6.1.9"
   },
   "repository": {
     "type": "git",
