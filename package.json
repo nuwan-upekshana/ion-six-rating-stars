@@ -1,0 +1,81 @@
+{
+  "_from": "ion-rating-stars",
+  "_id": "ion-rating-stars@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-9QvYCY5FL+fEP9aqcGFIxJPqfGc922GQDbKIjNFQG90iGDhANmgI2TwumlTIXWqV39HSzxqmzz917vHDq5e+mg==",
+  "_location": "/ion-rating-stars",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ion-rating-stars",
+    "name": "ion-rating-stars",
+    "escapedName": "ion-rating-stars",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ion-rating-stars/-/ion-rating-stars-1.2.0.tgz",
+  "_shasum": "5c7efff48e55c69bae2190b66cc61a04d8837359",
+  "_spec": "ion-rating-stars",
+  "_where": "C:\\AWORKSPACE\\NEWDOV\\consumer-mob",
+  "author": {
+    "name": "Najam Us Saqib"
+  },
+  "bugs": {
+    "url": "https://github.com/Saqib92/ion-rating-stars/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "deprecated": false,
+  "description": "Ionic 6 rating stars component using Angular",
+  "es2020": "fesm2020/ion-rating-stars.mjs",
+  "esm2020": "esm2020/ion-rating-stars.mjs",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/ion-rating-stars.mjs",
+      "es2020": "./fesm2020/ion-rating-stars.mjs",
+      "es2015": "./fesm2015/ion-rating-stars.mjs",
+      "node": "./fesm2015/ion-rating-stars.mjs",
+      "default": "./fesm2020/ion-rating-stars.mjs"
+    }
+  },
+  "fesm2015": "fesm2015/ion-rating-stars.mjs",
+  "fesm2020": "fesm2020/ion-rating-stars.mjs",
+  "homepage": "https://github.com/Saqib92/ion-rating-stars#readme",
+  "keywords": [
+    "Ionic",
+    "Ionic 5",
+    "Ionic 6",
+    "Ionic Framework",
+    "Angular",
+    "Rating",
+    "Stars",
+    "Component"
+  ],
+  "license": "MIT",
+  "module": "fesm2015/ion-rating-stars.mjs",
+  "name": "ion-rating-stars",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0",
+    "@ionic/angular": "^6.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saqib92/ion-rating-stars.git"
+  },
+  "sideEffects": false,
+  "typings": "index.d.ts",
+  "version": "1.2.0"
+}
